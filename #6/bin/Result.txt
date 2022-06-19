@@ -1,0 +1,14 @@
+BinaryCopyEx.java:13:			while((c=fi.read()) != -1) {
+BlockBinaryCopyEx.java:15:				int n = fi.read(buf); // 버퍼 크기만큼 읽기. n은 실제 읽은 바이트
+BufferedIOEx.java:7:		FileReader fin = null;
+BufferedIOEx.java:10:			fin = new FileReader("test2.txt");
+BufferedIOEx.java:13:			while((c = fin.read()) != -1) {
+FileInputStreamEx.java:12:			while ((c = fin.read()) != -1) {
+FileReaderEx01.java:3:public class FileReaderEx01 {
+FileReaderEx01.java:9:			FileReader fin = new FileReader("test.txt");
+FileReaderEx01.java:12:			while ((c = fin.read()) != -1) {
+FileReadKorean.java:2:public class FileReadKorean {
+FileReadKorean.java:5:		InputStreamReader in = null;
+FileReadKorean.java:9:			in = new InputStreamReader(fin, "MS949");	// 문자 스트림 클래스
+FileReadKorean.java:10:			//in = new InputStreamReader(fin, "UTF8");	// 문자 스트림 클래스
+FileReadKorean.java:15:			while((c=in.read())!= -1) {
