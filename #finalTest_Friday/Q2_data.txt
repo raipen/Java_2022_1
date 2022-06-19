@@ -1,0 +1,10 @@
+ha-rin red 1
+so-won green 6 
+young-jin red 7 
+won-seok blue 5 
+so-hee blue 8
+su-bin red 2
+min-su green 4
+su-zy red 9
+ji-soo blue 3
+hye-jin green 0
